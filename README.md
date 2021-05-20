@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Igorfcfs
-- 👀 I’m interested ... in program at Java, C# languages and help with codes(Java or C# language) for create games.
+- 👀 I’m interested ... in program at Java, C#, and Python languages and help with codes(Java, C# or Python language) for create games or other things.
 - 🌱 I’m currently ... learning program at Java language.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
