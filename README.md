@@ -5,7 +5,7 @@ Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadora
 
 ## Tecnologias e Ferramentas
 - **Linguagens de Programação:** Java, Python, TypeScript, JavaScript, C, C++, C#
-- **Frameworks e Bibliotecas:** Spring Boot, Node.js, React (DOM & Native)
+- **Frameworks e Bibliotecas:** Spring Boot, Express, Node.js, React (DOM & Native)
 - **Desenvolvimento Web:** HTML5, CSS3
 - **Outras Habilidades:** Git, SQL, RESTful APIs
 
