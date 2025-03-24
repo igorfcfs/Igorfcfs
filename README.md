@@ -1,12 +1,15 @@
 # Olá! Eu sou o Igor Fernando Silva 👋
 
 ## Sobre Mim
-Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadoras e eficientes. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Taboão da Serra, onde estou aprimorando minhas habilidades e conhecimentos em diversas áreas da programação.
+Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadoras e eficientes. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Taboão da Serra, onde estou aprimorando minhas habilidades e conhecimentos em diversas áreas da programação. Sou interessado primordialmente em 3 áreas da tecnologia: Ciência de Dados, Desenvolvimento e Engenharia de Software.
 
 ## Tecnologias e Ferramentas
 - **Linguagens de Programação:** Java, Python, TypeScript, JavaScript, C, C++, C#
-- **Frameworks e Bibliotecas:** Spring Boot, Express, Node.js, React (DOM & Native)
-- **Desenvolvimento Web:** HTML5, CSS3
+- **Frameworks e Bibliotecas:** Spring Boot, Express, Node.js, React (DOM & Native) e Django
+- **Desenvolvimento Web:** HTML5, CSS3, JavaScript e React.js
+- **Desenvolvimento Mobile:** React Native
+- **Desenvolvimento Backend:** Java com SpringBoot, Node.js com Express
+- **Ciência de Dados:** Python, automação, Machine Learning
 - **Outras Habilidades:** Git, SQL, RESTful APIs
 
 ## Conecte-se Comigo
