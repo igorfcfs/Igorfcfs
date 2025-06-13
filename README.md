@@ -34,7 +34,7 @@ Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadora
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84.svg?style=flat&logo=android-studio&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
-### Desenvolvimento Backend
+### 🔧 Desenvolvimento Backend
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?style=flat&logo=spring-boot&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=flat&logo=express&logoColor=white)
