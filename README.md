@@ -55,7 +55,7 @@ Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadora
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ## 🌐 Conecte-se Comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fernando-silva-496076216/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fernando-casita/)
 
 Estou sempre aberto a novas oportunidades de colaboração e aprendizado. Sinta-se à vontade para me contatar através do LinkedIn!
 
