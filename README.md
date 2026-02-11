@@ -1,7 +1,7 @@
 # Olá! Eu sou o Igor Fernando Silva 👋
 
 ## Sobre Mim
-Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadoras e eficientes. Atualmente, estou cursando Desenvolvimento de Sistemas na ETEC Taboão da Serra, onde estou aprimorando minhas habilidades e conhecimentos em diversas áreas da programação. Sou interessado primordialmente em 3 áreas da tecnologia: Ciência de Dados, Desenvolvimento e Engenharia de Software.
+Sou um entusiasta da tecnologia com paixão por desenvolver soluções inovadoras e eficientes. Atualmente, estou cursando Ciência & Tecnologia pela Universidade Federal do ABC, onde estou aprimorando minhas habilidades e conhecimentos em diversas áreas do conhecimento. Sou interessado primordialmente em 3 áreas da tecnologia: Bioinformática, Desenvolvimento Full-Stack e Engenharia de Software.
 
 ## 🚀 Tecnologias e Ferramentas
 
